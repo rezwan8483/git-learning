@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Git is an open-source version control system installed on your local computer.
 GitHub is a cloud-based service that hosts Git repositories.
@@ -15,3 +16,8 @@ sudo apt install gh -y
 
 # Verify installation
 gh --version
+=======
+“This project demonstrates basic Git and GitHub operations such as
+repository setup, branching, committing, and pushing code to GitHub.”
+
+>>>>>>> e344f84c927787b02ab94b1b5f8883bbcc060da9
